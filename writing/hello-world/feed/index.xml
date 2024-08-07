@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/writing/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/writing/hello-world/</link>
+	<atom:link href="https:/writing/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https:/writing/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Fri, 21 Jun 2024 16:10:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/writing/hello-world/#comment-1</link>
+		<link>https:/writing/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 29 May 2024 23:08:13 +0000</pubDate>

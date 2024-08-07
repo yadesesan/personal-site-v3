@@ -9,8 +9,8 @@
 
 <channel>
 	<title>First Test Site</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https:/feed/" rel="self" type="application/rss+xml" />
+	<link>https:/</link>
 	<description></description>
 	<lastBuildDate>Fri, 21 Jun 2024 16:10:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/05/logomark.svg</url>
+	<url>https:/wp-content/uploads/2024/05/logomark.svg</url>
 	<title>First Test Site</title>
-	<link>/</link>
+	<link>https:/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/writing/hello-world/</link>
-					<comments>/writing/hello-world/#comments</comments>
+		<link>https:/writing/hello-world/</link>
+					<comments>https:/writing/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 29 May 2024 23:08:13 +0000</pubDate>
@@ -42,7 +42,7 @@
 <p>Lorem ipsum dolor sit amet consectetur. Sit platea amet phasellus elit etiam ultricies id eget nulla. Risus enim enim nunc in quis tristique fringilla. Nisi diam nunc elit consectetur. Turpis sit dignissim sagittis ornare interdum. In quisque lorem nascetur mi tristique ut ut. Cras eros laoreet condimentum scelerisque id cras. Tristique tortor vulputate suspendisse ac a pulvinar. Sed tellus nunc accumsan eu neque vestibulum. Quis in ut turpis quis purus tellus pharetra.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/writing/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https:/writing/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
