@@ -3,21 +3,21 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https:/wp-content/uploads/2024/05/Satoshi-Regular.eot');
-	src: url('https:/wp-content/uploads/2024/05/Satoshi-Regular.eot#iefix') format('embedded-opentype'),
-		url('https:/wp-content/uploads/2024/05/Satoshi-Regular.woff2') format('woff2'),
-		url('https:/wp-content/uploads/2024/05/Satoshi-Regular.woff') format('woff'),
-		url('https:/wp-content/uploads/2024/05/Satoshi-Regular.ttf') format('truetype');
+	src: url('/wp-content/uploads/2024/05/Satoshi-Regular.eot');
+	src: url('/wp-content/uploads/2024/05/Satoshi-Regular.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2024/05/Satoshi-Regular.woff2') format('woff2'),
+		url('/wp-content/uploads/2024/05/Satoshi-Regular.woff') format('woff'),
+		url('/wp-content/uploads/2024/05/Satoshi-Regular.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Satoshi';
 	font-style: normal;
 	font-weight: 500;
 	font-display: auto;
-	src: url('https:/wp-content/uploads/2024/05/Satoshi-Medium.eot');
-	src: url('https:/wp-content/uploads/2024/05/Satoshi-Medium.eot#iefix') format('embedded-opentype'),
-		url('https:/wp-content/uploads/2024/05/Satoshi-Medium.woff2') format('woff2'),
-		url('https:/wp-content/uploads/2024/05/Satoshi-Medium.woff') format('woff'),
-		url('https:/wp-content/uploads/2024/05/Satoshi-Medium.ttf') format('truetype');
+	src: url('/wp-content/uploads/2024/05/Satoshi-Medium.eot');
+	src: url('/wp-content/uploads/2024/05/Satoshi-Medium.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2024/05/Satoshi-Medium.woff2') format('woff2'),
+		url('/wp-content/uploads/2024/05/Satoshi-Medium.woff') format('woff'),
+		url('/wp-content/uploads/2024/05/Satoshi-Medium.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
